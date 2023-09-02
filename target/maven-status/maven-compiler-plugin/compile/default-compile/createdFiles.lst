@@ -1,0 +1,10 @@
+com/example/demo2/collection/Person$PersonBuilder.class
+com/example/demo2/Demo2Application.class
+com/example/demo2/repository/PersonRepository.class
+com/example/demo2/config/SpringFoxConfig.class
+com/example/demo2/controller/PersonController.class
+com/example/demo2/service/PersonServiceImpl.class
+com/example/demo2/collection/Person.class
+com/example/demo2/collection/Address.class
+com/example/demo2/service/PersonService.class
+com/example/demo2/collection/Address$AddressBuilder.class
